@@ -1,5 +1,5 @@
 
-## image-syncer
+# image-syncer [![image-sync](https://github.com/lim1202/image-syncer/actions/workflows/image-sync.yml/badge.svg)](https://github.com/lim1202/image-syncer/actions/workflows/image-sync.yml)
 sync k8s.gcr.io docker images to dockerhub or aliyun registry use [aliyun image-syncer](https://github.com/AliyunContainerService/image-syncer) and github action!
 
 ## Getting Started
