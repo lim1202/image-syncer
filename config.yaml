@@ -4,4 +4,4 @@ auth:
     password: PASSWORD
 images:
   k8s.gcr.io/git-sync/git-sync: registry.cn-shanghai.aliyuncs.com/k8s-gcr-io-sync/git-sync
-  k8s.gcr.io/echoserver: registry.cn-shanghai.aliyuncs.com/k8s-gcr-io-sync/git-sync
+  k8s.gcr.io/echoserver: registry.cn-shanghai.aliyuncs.com/k8s-gcr-io-sync/echoserver
